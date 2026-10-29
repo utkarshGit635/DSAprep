@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshGit635/DSAprep/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/utkarshGit635/DSAprep/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/utkarshGit635/DSAprep/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
