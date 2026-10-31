@@ -12,18 +12,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshGit635/DSAprep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshGit635/DSAprep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshGit635/DSAprep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshGit635/DSAprep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshGit635/DSAprep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshGit635/DSAprep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshGit635/DSAprep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/0897-increasing-order-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarshGit635/DSAprep/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
